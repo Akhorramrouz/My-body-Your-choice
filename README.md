@@ -76,8 +76,8 @@ This Jupyter notebook provides a comprehensive guide to fine-tuning a Persian BE
 ## 4. Data Loading and Preprocessing
 - Load data using Pandas. The data involves sentiment labels and comments for analysis.
 
-## 5. Data Cleaning and Normalization
-- Steps for cleaning the data, including fixing unicodes, removing special characters, HTML cleaning, normalizing, and removing emojis.
+## 5. Data  pre-processing and Normalization
+- Steps for pre-processing the data, including fixing unicodes, removing special characters, HTML cleaning, normalizing, and removing emojis.
 
 ## 6. Handling Unbalanced Data
 - Techniques used to handle unbalanced data by cutting the dataset randomly based on the fewer label, in this case, the negative class.
